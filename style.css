@@ -1,0 +1,38 @@
+body{
+    font-family: cursive;
+}
+.container{
+    text-align: center;
+}
+hr{
+    height: 1px;
+    background-color: black;
+}
+.calculator{
+    display: inline-block;
+    padding: 7px;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+table{
+    margin: auto;
+    
+}
+input{
+    font-size: 30px;
+    height: 70px;
+    background: rgb(196, 189, 199);
+    border-width: 3px;
+    border-color: black;
+    border-radius: 20px;
+}
+button{
+    font-size: 30px;
+    background: rgb(196, 189, 199);
+    width: 88px;
+    font-weight: bolder;
+    height: 70px;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 15px;
+}
